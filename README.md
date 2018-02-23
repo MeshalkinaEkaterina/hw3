@@ -4,3 +4,4 @@
 [ссылка на таблицу](https://docs.google.com/spreadsheets/d/1ujzwU_nxzubMVDPytz2Fd5mTwz4j1Cr2OKVhTsOGWIg/edit#gid=660251746&fvid=519491540)
 
 применён фильтр: обучающиеся по гуманитарным специальностям
+(участвовало 13 человек)
